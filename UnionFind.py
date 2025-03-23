@@ -8,7 +8,7 @@ There are 2 Approaches to implement the Union Find algorithm:
 
 2. The Quick Union Approach:
     Find():O(N)
-    Union():O(1)
+    Union():O(N)
 
 '''
 
